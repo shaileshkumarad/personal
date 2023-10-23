@@ -1,0 +1,46 @@
+body {
+    background-color: #D0E7D2;
+}
+
+#logo {
+    display: inline;
+}
+
+#navigation-bar {
+    background-color: #B0D9B1;
+    margin-bottom: 4rem;
+    padding-bottom: 0;
+}
+
+#nab {
+    display: flex;
+    float: right;
+    justify-content: space-evenly;
+}
+
+#introduction {
+    margin-top: 1rem;
+}
+
+#menu {
+    background-color: #B0D9B1;
+}
+
+.carousel-item{
+    opacity: 0.5;
+}
+
+#contact{
+    background-color: #B0D9B1; 
+}
+
+.carousel-item img {
+    border-radius: 10%;
+    border: 10px solid #B0D9B1;
+    height: 15rem;
+}
+
+#testimonials img, #services img  {
+    border: 5px solid #B0D9B1;
+}
+
